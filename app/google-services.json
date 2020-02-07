@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381066706953",
+    "firebase_url": "https://chatbot-f7eb7.firebaseio.com",
+    "project_id": "chatbot-f7eb7",
+    "storage_bucket": "chatbot-f7eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381066706953:android:5978a6f8ce2cf489bab8d8",
+        "android_client_info": {
+          "package_name": "com.hsdroid.chatbottestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381066706953-5du0har35v4m46dtlbg24qa236tnm976.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCl9_-RPJPEZYITlHbWuqEARhj4qcDhjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381066706953-5du0har35v4m46dtlbg24qa236tnm976.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
